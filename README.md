@@ -9,7 +9,7 @@ Simultaneously, I'm on an exciting journey to explore the world of Python, lever
 - 💡 With a foundation in MERN and a determination to master React while diving into Python,
 I'm committed to creating innovative solutions and embracing the dynamic nature of software development.
 
-- 📬 You can reach me at ignatius.a.ambrose@gmail.com / [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignatius-ambrose/)
+- 📬 You can reach me at ignatius.a.ambrose@gmail.com / [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignatiusambrose/)
 
 - 🌟 Let's collaborate, innovate, and build a brighter digital future together! Feel free to explore my repositories and join me on this coding adventure.
 
